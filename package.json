@@ -18,5 +18,8 @@
       "./app.js"
     ]
   },
-  "homepage": "https://github.com/wyncode/js-voter-sim#readme"
+  "homepage": "https://github.com/wyncode/js-voter-sim#readme",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
 }
